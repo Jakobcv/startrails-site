@@ -1,0 +1,36 @@
+STARTRAILS: NIGHT SKY — PRESS FACT SHEET
+
+Fly a small ship along a line of light and draw the night sky, star by star.
+
+Developer:     Salsa Shark Productions, an independent developer in Denmark
+Release:       Thursday 10 December 2026, worldwide
+Platform:      iPhone (iOS)
+Price:         $1.99 / €1.99 / £1.99 / 19 kr. Pay once: no ads, no in-app purchases, no tracking, no account
+Genre:         Casual arcade, with real astronomy
+Language:      English
+Age rating:    4+
+Offline:       Plays fully offline
+Contact:       salsasharkapps@icloud.com
+Press kit:     https://jakobcv.github.io/startrails-site/press/
+
+ABOUT
+Somewhere far from Earth, a lone pilgrim carries old star charts and a list of names no one has said aloud in a thousand years. The stars are all still there, but the shapes are gone: they were only ever seen from one small world. So the pilgrim flies, retracing them one by one, and leaves memories along the way for you to find.
+
+Each flight carries you farther out. Steer well and your trail finds the constellations: all twelve signs of the zodiac, then Orion, the Great Bear, the Southern Cross and more, each plotted from real star positions. Every one you find opens its stories: the myths people told about it, and what astronomers have since learned about its stars. Turn a constellation in 3D and you see how far away each of its stars really is.
+
+FEATURES
+- Twenty constellations to find: the twelve signs of the zodiac and eight famous others
+- Old myths and real astronomy for each: double stars, meteor showers, exploded stars and black holes
+- Turn any constellation you've found in 3D and see how far away each of its stars really is
+- A quiet story, told in memories found along the way, with no cutscenes
+- Calm flights for drifting (no way to fail), Standard for the open sky, and Hard for no second chances
+- Draw your own constellations once you find a blank chart
+- Short runs, easy to pick up; plays fully offline
+
+IN THIS KIT
+startrails-trailer.mp4          Trailer, 30 s, 886x1920
+screenshots/                    Seven screenshots, 1206x2622 PNG
+startrails-wordmark*.png        Wordmark: on the night sky, light (transparent), dark (transparent)
+startrails-icon.png             App icon, 1024x1024
+
+Everything in this kit may be used in coverage of the game. Promo codes for review are available on request.
