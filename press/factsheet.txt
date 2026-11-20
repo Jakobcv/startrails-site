@@ -28,7 +28,7 @@ FEATURES
 - Short runs, easy to pick up; plays fully offline
 
 IN THIS KIT
-startrails-trailer.mp4          Trailer, 30 s, 886x1920
+startrails-trailer.mp4          Trailer, 28 s, 886x1920
 screenshots/                    Seven screenshots, 1206x2622 PNG
 startrails-wordmark*.png        Wordmark: on the night sky, light (transparent), dark (transparent)
 startrails-icon.png             App icon, 1024x1024
